@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="191" height="48" viewBox="0 0 191 48">
+  <g id="Group_269" data-name="Group 269" transform="translate(15822 975)">
+    <text id="Rabbil" transform="translate(-15741 -940)" fill="#141345" font-size="33" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Rabbil</tspan></text>
+    <path id="Path_8" data-name="Path 8" d="M-1302.05,1093.518h7.082l-16.815,48h-7.083Z" transform="translate(-14471.586 -2068.518)" fill="#141345"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(-15822 -965.554)">
+      <path id="Path_9" data-name="Path 9" d="M-1351.342,1149.952l11.277-5.96v-.05Z" transform="translate(1371.528 -1136.569)" fill="#54dafb"/>
+      <path id="Path_10" data-name="Path 10" d="M-1355.821,1172.217v7.484l-19.755-10.836v-.716l5.945-3.169Z" transform="translate(1387.284 -1150.248)" fill="#54dafb"/>
+      <path id="Path_11" data-name="Path 11" d="M-1355.821,1122.867v7.373l-11.277,6.01-2.544,1.344.01.005-5.945,3.169V1133.7Z" transform="translate(1387.284 -1122.867)" fill="#54dafb"/>
+      <path id="Path_12" data-name="Path 12" d="M-1409.045,1140.335" transform="translate(1409.045 -1134.224)" fill="#54dafb"/>
+      <line id="Line_1" data-name="Line 1" x1="2.533" y2="1.35" transform="translate(17.654 13.383)" fill="#00973d" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.25"/>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(-15766.518 -965.554)">
+      <path id="Path_13" data-name="Path 13" d="M-1250.447,1143.96v.049l11.277,5.961Z" transform="translate(1250.447 -1136.587)" fill="#54dafb"/>
+      <path id="Path_14" data-name="Path 14" d="M-1250.447,1172.235v7.484l19.755-10.836v-.716l-5.945-3.169Z" transform="translate(1250.447 -1150.266)" fill="#54dafb"/>
+      <path id="Path_15" data-name="Path 15" d="M-1250.447,1122.885v7.373l11.277,6.01,2.544,1.344-.011.005,5.945,3.169v-7.066Z" transform="translate(1250.447 -1122.885)" fill="#54dafb"/>
+      <line id="Line_2" data-name="Line 2" x1="2.533" y1="1.35" transform="translate(11.277 13.383)" fill="#00973d" stroke="#1a1818" stroke-miterlimit="10" stroke-width="0.25"/>
+    </g>
+  </g>
+</svg>
